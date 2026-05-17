@@ -18,4 +18,4 @@ Screenshots of my outputs
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(675).png?raw=true)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(676).png?raw=true)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(677).png?raw=true)
-
+![image alt](https://github.com/regalpogi/images.jpg/blob/ee0bd5d1d7c4597449f6f0f45bba313f0c4774d5/Screenshot%20(710).png)
