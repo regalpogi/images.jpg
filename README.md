@@ -19,3 +19,4 @@ Screenshots of my outputs
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(677).png?raw=true)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/ee0bd5d1d7c4597449f6f0f45bba313f0c4774d5/Screenshot%20(710).png)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/4d22bc9f7d1bcd461a7e876d80138d49ce3cd5eb/RESUME-%20JORDAN%20REGAL%20(3).png)
+![image alt](https://github.com/regalpogi/images.jpg/blob/10aeaa7ddab5774af1130d6879f4d637f696b1e3/Screenshot%20(715).png)
