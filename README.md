@@ -1,4 +1,4 @@
-# Sample Projects 1.jpg
+https://github.com/regalpogi/images.jpg/blob/4d22bc9f7d1bcd461a7e876d80138d49ce3cd5eb/RESUME-%20JORDAN%20REGAL%20(3).pdfhttps://github.com/regalpogi/images.jpg/blob/4d22bc9f7d1bcd461a7e876d80138d49ce3cd5eb/RESUME-%20JORDAN%20REGAL%20(3).pdf# Sample Projects 1.jpg
 Screenshots of my outputs
 ![image alt](https://github.com/regalpogi/images.jpg/blob/53ef7fdea5a34be6b042e8fd7b473f70cf6ede0c/Screenshot%202026-04-23%20223159.png)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/4aa1a06923db928f267c88ff0c89cac4f3df8721/Screenshot%202026-04-23%20223254.png)
@@ -18,4 +18,5 @@ Screenshots of my outputs
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(676).png?raw=true)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/main/Screenshot%20(677).png?raw=true)
 ![image alt](https://github.com/regalpogi/images.jpg/blob/ee0bd5d1d7c4597449f6f0f45bba313f0c4774d5/Screenshot%20(710).png)
-![image alt](
+![image alt](https://github.com/regalpogi/images.jpg/blob/4d22bc9f7d1bcd461a7e876d80138d49ce3cd5eb/RESUME-%20JORDAN%20REGAL%20(3).pdf)
+
